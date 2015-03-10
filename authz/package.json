@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hapi": "^8.2.0",
+    "hapi-auth-jwt": "^2.1.0"
+  }
+}
